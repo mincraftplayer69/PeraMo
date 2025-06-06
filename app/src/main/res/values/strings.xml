@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PeraMo</string>
+    <string name="label_portfolio">Portfolio</string>
+    <string name="label_main_portfolio">Main Portfolio</string>
+</resources>
