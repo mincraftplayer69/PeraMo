@@ -4,10 +4,10 @@
     <item android:title="Home"
         android:icon="@drawable/icon_home"
         android:id="@+id/home"/>
-    <item android:title="Profile"
-        android:icon="@drawable/icon_person"
-        android:id="@+id/profile"/>
-    <item android:title="Seetings"
+    <item android:title="Wallet"
+        android:icon="@drawable/icon_wallet"
+        android:id="@+id/wallet"/>
+    <item android:title="Settings"
         android:icon="@drawable/icon_settings"
         android:id="@+id/settings"/>
 </menu>
