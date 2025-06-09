@@ -3,5 +3,7 @@
     <string name="label_portfolio">Portfolio</string>
     <string name="label_main_portfolio">Main Portfolio</string>
     <string name="placeholder_php">PHP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
